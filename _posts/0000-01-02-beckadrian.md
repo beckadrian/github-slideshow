@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my text!
-  OK
+*All Righty!* Excited! Let's keep going and finish her up.
